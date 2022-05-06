@@ -7,3 +7,7 @@ RESTAURANT APP UI is my playground and definition on how to go about building a 
 ## Libraries Used
 
 * [Material Design](https://material.io/develop/android/docs/getting-started/)
+
+
+## CHECK SCREENSHOT FOLDER FOR UI VISUALS
+
