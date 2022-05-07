@@ -2,7 +2,7 @@
 
 ### Getting Started 
 
-RESTAURANT APP UI is my playground and definition on how to go about building a modern day android Application following best practises such as a clean Architecture 
+RESTAURANT APP UI is my playground and definition on how to go about building a modern day cross-platform application following best practises such as a clean architecture 
 
 ## Libraries Used
 
