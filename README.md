@@ -1,4 +1,4 @@
-# wWORLD TIME
+# WORLD TIME
 
 ### Getting Started 
 
