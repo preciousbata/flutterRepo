@@ -1,2 +1,2 @@
 # flutter Exercise
-Mobile Apps developed with Flutter
+Mobile App developed with Flutter
